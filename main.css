@@ -1,0 +1,156 @@
+body{
+    margin: 0px;
+}
+
+.background {
+    background-image: url(maul\ 2.jpg);
+}
+
+.back-2{
+    background-image: url("27a539080eaac63be2e70c87a36c9743.jpg");
+}
+
+a:hover {
+    background-color: yellow;
+  }
+
+.h {
+    text-align: center;
+    border: 3px;
+    color: whitesmoke;
+    padding-top: 25px;
+}
+h1, h2, h3 {
+    padding: 15px;
+    color: whitesmoke;
+}
+.nav a{
+    padding: 0 20px;
+    color: red;
+    font-size: 25px;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+   }
+
+.fixed{
+    position: fixed;
+}
+
+a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: red;
+}
+
+.a{
+    font-weight: bolder;
+    color: red;
+
+}
+
+.a_2{
+    font-weight: bolder;
+    color: green;
+}
+
+.a_3{
+    padding-top: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+    color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.text{
+    margin: 25px;
+}
+
+p{
+      color: whitesmoke;
+      text-indent: 20px;
+}
+
+li{
+    color: whitesmoke;
+    text-size-adjust: 35px;
+}
+
+b{
+    color: green;
+    background-color: black;
+}
+
+strong{
+    color: red;
+    background-color: black;
+}
+
+em{
+    background-color: red;
+    color: black;
+}
+
+.pic{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    float: right;
+    padding-right: 350px;
+}
+
+.p2{
+    height: 200px;
+    width: 200px;
+    float: right;
+    padding-right: 300px;
+}
+
+.p3{
+    display: inline;
+    height: 300px;
+    width: 400px;
+    float: right;
+    padding-right: 30px;
+}
+
+.footer{
+    position: relative;
+    clear: both;
+    margin-top: -50px;
+    margin-bottom: -200px;
+    padding-left: 100px;
+    background-color: black;
+}
+
+.i{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -220px;
+
+}
+
+.f{
+    justify-content: right;
+    float: right;
+    clear: both;
+    margin-top: -150px;
+    margin-bottom: -200px;
+    padding-right: 100px;
+    background-color: black;
+}
+
+.cp{
+    padding-left: 20px;
+    justify-content: center;
+    height: 656x;
+    width: 1310px;
+
+}
